@@ -2,36 +2,36 @@
 
 You can use the [editor on GitHub](https://github.com/shariquemohammad/MCPTT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Welcome to the MCPTT wiki!
 
-### Markdown
+### What is MCPTT ? 
+## MCPTT” it stand for “Mission-critical push-to-talk” It is a 3GPP telecommunication standard, that meets the requirements for public safety mission-critical and business critical communication. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## With modernization in existing mobile communication networks, much of which is based on narrowband (NB) technologies. That includes first responders such as the police, firefighters, and ambulance and rescue services, along with utilities, and railway, airport etc .companies. 
 
-```markdown
-Syntax highlighted code block
+## The adoption of standardized technology and ecosystems in the mission-critical communications networks domain is essential. 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### 3GPP 
+## To accelerate development of IP-based Mission Critical voice and video over LTE and 5G MCX
 
-**Bold** and _Italic_ and `Code` text
+## Rel 9 to Rel 12  : Were not designed to comply with the reliability, confidentiality and security standards which are required for mission critical services
 
-[Link](url) and ![Image](src)
-```
+## Rel 12 to Rel 15  : It transfer higher data rate information such as video streams - enabling the emergency services arriving on scene to build-up a clearer picture of the incident whilst in transit. Furthermore, the new technology offers session priority management,
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Mission Critical Push to Talk (MCPTT) was the first finalized by the 3GPP working group SA6 in Release 13
 
-### Jekyll Themes
+### Mission Critical Video and Mission Critical Data are planned for Release 14
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shariquemohammad/MCPTT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### MCPTT KPI TARGETS
+## MCPTT access time < 0.3s for 95% of all MCPTT requests. This is the time between a user request, and receiving a signal to commence speaking. 
+
+## End-to-end MCPTT access time < 1.0s Round trip of the access time at both ends plus any call establishment time. 
+
+## Mouth-to-ear latency < 0.5s for 95% of all voice bursts Time between user one speaking and user twos speaker relaying the message. 
+
+## Late call entry time < 0.35s for 95% of all late entry requests. The elapsed time it takes for a user to enter a call and the MCPTT client to start to play the audio 
